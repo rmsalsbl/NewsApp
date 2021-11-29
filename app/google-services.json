@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "202709558404",
+    "project_id": "newsappidn",
+    "storage_bucket": "newsappidn.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:202709558404:android:d200f8b7b1b9d15c4a0ed1",
+        "android_client_info": {
+          "package_name": "com.slowmotion.newsapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "202709558404-sh5427foqujt141mdaaqj9gi35diols8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB4sgpFm2IErX2Nhy02hze1FdRy0ONjT-8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "202709558404-sh5427foqujt141mdaaqj9gi35diols8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
